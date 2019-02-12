@@ -14,7 +14,7 @@ namespace Text_Printer
             Console.WriteLine("Welcome !  type your message: ");
             string msg = Console.ReadLine();
             Prinet_Text(msg);
-            Thread.Sleep(4000);
+            Thread.Sleep(3000);
         }
 
         private static void Prinet_Text(string msg)
