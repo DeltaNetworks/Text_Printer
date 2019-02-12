@@ -1,0 +1,7 @@
+C:\Users\roneny\source\repos\Text_Printer\Text_Printer\bin\Debug\Text_Printer.exe.config
+C:\Users\roneny\source\repos\Text_Printer\Text_Printer\bin\Debug\Text_Printer.exe
+C:\Users\roneny\source\repos\Text_Printer\Text_Printer\bin\Debug\Text_Printer.pdb
+C:\Users\roneny\source\repos\Text_Printer\Text_Printer\obj\Debug\Text_Printer.csprojAssemblyReference.cache
+C:\Users\roneny\source\repos\Text_Printer\Text_Printer\obj\Debug\Text_Printer.csproj.CoreCompileInputs.cache
+C:\Users\roneny\source\repos\Text_Printer\Text_Printer\obj\Debug\Text_Printer.exe
+C:\Users\roneny\source\repos\Text_Printer\Text_Printer\obj\Debug\Text_Printer.pdb
